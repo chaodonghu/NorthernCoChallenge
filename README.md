@@ -1,4 +1,4 @@
-# NorthernCoChallenge
+# NorthernCoChallenge (JavaScript)
 
 1. Git clone
 2. Install modules
